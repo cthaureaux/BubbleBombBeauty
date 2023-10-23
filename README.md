@@ -29,3 +29,8 @@ BubbleBombBeauty is an e-commerce website developed as a project for the CSIT337
 1. Clone the repository:
    ```bash
    git clone https://github.com/cthaureaux/BubbleBombBeauty.git
+
+## Video Demonstration
+Welcome to the video demonstration of our e-commerce website! In this video, we'll provide an overview of the features and functionality of our website. Watch the video to get a closer look at how our e-commerce platform works.
+
+[![Watch the Video](https://img.youtube.com/vi/y5HZKjab8PU/0.jpg)](https://www.youtube.com/watch?v=y5HZKjab8PU)
